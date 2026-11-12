@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the released results, please cite the paper below."
+title: "Certified Attack Diagnosis for Explainable Intrusion Detection in IoT Security Operations"
+authors:
+  - family-names: Alshanketi
+    given-names: Faisal
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-28"
+preferred-citation:
+  type: article
+  title: "Certified Attack Diagnosis for Explainable Intrusion Detection in IoT Security Operations"
+  authors:
+    - family-names: Alshanketi
+      given-names: Faisal
+  journal: "Systems (under review)"
+  year: 2026
