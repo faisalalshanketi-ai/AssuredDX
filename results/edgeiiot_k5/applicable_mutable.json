@@ -1,0 +1,17 @@
+{
+  "icmp": [],
+  "other": [],
+  "tcp": [
+    "http.content_length",
+    "tcp.len",
+    "mqtt.len",
+    "mqtt.proto_len",
+    "mqtt.topic_len",
+    "mbtcp.len",
+    "tcp_opt_len"
+  ],
+  "udp": [
+    "udp.time_delta",
+    "dns.retransmit_request"
+  ]
+}

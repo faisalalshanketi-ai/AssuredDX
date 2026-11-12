@@ -1,0 +1,5 @@
+eps,n,AssureDx robust correct,fingerprint (published) robust correct,fingerprint (published) refused under attack,AssureDx - fingerprint (published),fingerprint (matched) robust correct,fingerprint (matched) refused under attack,AssureDx - fingerprint (matched),gate (matched) + AssureDx robust correct,gate (matched) + AssureDx TMR certified
+0.03,224,"0.996 [0.985, 1.000]","0.344 [0.167, 0.519]",0.656,"0.652 [0.471, 0.824]","0.339 [0.162, 0.514]",0.661,"0.656 [0.476, 0.830]","0.339 [0.162, 0.514]",0.004
+0.1,224,"0.987 [0.968, 1.000]","0.268 [0.120, 0.422]",0.732,"0.719 [0.559, 0.870]","0.259 [0.111, 0.411]",0.741,"0.728 [0.571, 0.877]","0.259 [0.111, 0.411]",0.004
+0.3,224,"0.661 [0.530, 0.782]","0.250 [0.104, 0.406]",0.75,"0.411 [0.294, 0.528]","0.241 [0.098, 0.398]",0.759,"0.420 [0.301, 0.538]","0.241 [0.098, 0.398]",0.004
+1.0,224,"0.513 [0.375, 0.650]","0.210 [0.070, 0.370]",0.79,"0.304 [0.197, 0.427]","0.188 [0.052, 0.343]",0.812,"0.326 [0.213, 0.455]","0.188 [0.052, 0.343]",0.188

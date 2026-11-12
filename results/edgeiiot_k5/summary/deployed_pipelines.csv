@@ -1,0 +1,5 @@
+eps,n,capture_groups,no defence,"fingerprint, Sharma et al.",AssureDx certified diagnoses,AssureDx behind gate,"AssureDx behind gate, always output","AssureDx behind gate - fingerprint, Sharma et al.",AssureDx behind gate - no defence,"AssureDx certified diagnoses - fingerprint, Sharma et al."
+0.03,224,36,0.022,0.022,0.004,0.004,0.004,"-0.018 [-0.041, 0.000]","-0.018 [-0.041, 0.000]","-0.018 [-0.041, 0.000]"
+0.1,224,36,0.054,0.036,0.004,0.004,0.031,"-0.031 [-0.065, -0.008]","-0.049 [-0.087, -0.021]","-0.031 [-0.065, -0.008]"
+0.3,224,36,0.179,0.089,0.031,0.022,0.121,"-0.067 [-0.101, -0.036]","-0.156 [-0.222, -0.094]","-0.058 [-0.098, -0.018]"
+1.0,224,36,0.223,0.134,0.179,0.129,0.29,"-0.004 [-0.044, 0.038]","-0.094 [-0.162, -0.025]","0.045 [0.000, 0.092]"

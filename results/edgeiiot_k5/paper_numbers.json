@@ -1,0 +1,96 @@
+{
+ "label": "edgeiiot_k5",
+ "k": 5,
+ "sigma": 0.3,
+ "sigma_val": {
+  "0.03": 0.4630126441420507,
+  "0.1": 0.4630126441420507,
+  "0.3": 0.5303343031898485
+ },
+ "n_alerts": 480,
+ "alerts_per_family": {
+  "DDoS": 120,
+  "Injection": 120,
+  "Malware": 120,
+  "Scanning": 120
+ },
+ "share_alerts_without_feasible_candidate": 0.15416666666666667,
+ "n_common": 53,
+ "common_table": [
+  {
+   "eps": 0.01,
+   "raw_strongest": 0.018867924528301886,
+   "fingerprint": 0.018867924528301886,
+   "consensus": 0.1320754716981132,
+   "unsmoothed": 0.0,
+   "assuredx": 0.0,
+   "set_minus_raw": "-0.019 [-0.064, 0.000]",
+   "assuredx_diag": NaN,
+   "assuredx_diag_certified_output": NaN,
+   "provably_immune_diag": NaN,
+   "diag_minus_raw": NaN,
+   "diag_minus_fp": NaN
+  },
+  {
+   "eps": 0.03,
+   "raw_strongest": 0.018867924528301886,
+   "fingerprint": 0.018867924528301886,
+   "consensus": 0.1320754716981132,
+   "unsmoothed": 0.0,
+   "assuredx": 0.0,
+   "set_minus_raw": "-0.019 [-0.064, 0.000]",
+   "assuredx_diag": 0.0,
+   "assuredx_diag_certified_output": 0.0,
+   "provably_immune_diag": 1.0,
+   "diag_minus_raw": "-0.019 [-0.064, 0.000]",
+   "diag_minus_fp": "-0.019 [-0.064, 0.000]"
+  },
+  {
+   "eps": 0.1,
+   "raw_strongest": 0.07547169811320754,
+   "fingerprint": 0.05660377358490566,
+   "consensus": 0.1320754716981132,
+   "unsmoothed": 0.0,
+   "assuredx": 0.0,
+   "set_minus_raw": "-0.075 [-0.173, 0.000]",
+   "assuredx_diag": 0.0,
+   "assuredx_diag_certified_output": 0.0,
+   "provably_immune_diag": 0.9433962264150944,
+   "diag_minus_raw": "-0.075 [-0.173, 0.000]",
+   "diag_minus_fp": "-0.057 [-0.149, 0.000]"
+  },
+  {
+   "eps": 0.3,
+   "raw_strongest": 0.1320754716981132,
+   "fingerprint": 0.1320754716981132,
+   "consensus": 0.18867924528301888,
+   "unsmoothed": 0.09433962264150944,
+   "assuredx": 0.09433962264150944,
+   "set_minus_raw": "-0.038 [-0.096, 0.000]",
+   "assuredx_diag": 0.07547169811320754,
+   "assuredx_diag_certified_output": 0.018867924528301886,
+   "provably_immune_diag": 0.7547169811320755,
+   "diag_minus_raw": "-0.057 [-0.127, 0.000]",
+   "diag_minus_fp": "-0.057 [-0.127, 0.000]"
+  },
+  {
+   "eps": 1.0,
+   "raw_strongest": 0.1320754716981132,
+   "fingerprint": 0.1320754716981132,
+   "consensus": 0.20754716981132076,
+   "unsmoothed": 0.11320754716981132,
+   "assuredx": 0.1509433962264151,
+   "set_minus_raw": "0.019 [-0.061, 0.114]",
+   "assuredx_diag": 0.09433962264150944,
+   "assuredx_diag_certified_output": 0.05660377358490566,
+   "provably_immune_diag": 0.0,
+   "diag_minus_raw": "-0.038 [-0.113, 0.037]",
+   "diag_minus_fp": "-0.038 [-0.113, 0.037]"
+  }
+ ],
+ "clean_acc_smoothed_diag": 0.47708333333333336,
+ "clean_acc_raw": 0.48541666666666666,
+ "mcnemar_p": 0.4239501953125,
+ "clean_certified_issue_rate": 0.9645833333333333,
+ "cert_sec_median": 0.029767990112304
+}

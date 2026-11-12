@@ -1,0 +1,12 @@
+Quantity,Value
+Smoothed diagnosis accuracy,0.4771
+Raw SHAP diagnosis accuracy,0.4854
+Paired difference (smoothed − raw),-0.0083
+95% capture-level CI,"[-0.0354, +0.0146]"
+"90% CI (TOST, margin ±0.05)","[-0.0292, +0.0104]"
+Equivalent at ±0.05,yes
+"Accuracy, certified diagnoses (n = 463)",0.4903
+"Accuracy, abstentions (n = 17)",0.1176
+"Accuracy, certified radius ≥ 0.01 (n = 449)",0.5033
+"Accuracy, certified radius ≥ 0.03 (n = 415)",0.5398
+"Accuracy, certified radius ≥ 0.1 (n = 359)",0.5348

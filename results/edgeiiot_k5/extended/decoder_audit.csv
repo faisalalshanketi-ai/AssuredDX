@@ -1,0 +1,5 @@
+Stratum,Alerts,Share identical to an observed training flow,Share outside 0.1–99.9% training range,Median distinct bank flows
+icmp,17,1.0,0.0,1.0
+other,1,1.0,0.0,1.0
+tcp,102,0.541,0.0,71.5
+all,120,0.6099,0.0,22.0

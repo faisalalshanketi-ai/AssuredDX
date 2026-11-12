@@ -1,0 +1,11 @@
+Set,Alerts
+Attacked alerts (stage 4),480.0
+Adaptive-attack subset,200.0
+Diagnosis-attack subset,480.0
+"Eligible, raw",233.0
+"Eligible, fingerprint",230.0
+"Eligible, consensus",246.0
+"Eligible, unsmoothed",233.0
+"Eligible, assuredx",97.0
+"Eligible, smoothed diagnosis (vote)",229.0
+Clean certified share within diagnosis-attack subset,0.965

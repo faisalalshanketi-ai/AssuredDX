@@ -1,0 +1,6 @@
+,overlap_with_raw_topk,unique_neighbours_median,sec_per_certificate_median,median_radius,decoder_distance_median
+sigma=0.03,1.0,7.0,0.020475149154663086,0.043212,
+sigma=0.1,1.0,12.0,0.02276325225830078,0.144043,
+sigma=0.3,0.9766666666666667,24.0,0.024251103401184082,0.2676825,
+unsmoothed,1.0,,,,0.0
+consensus,0.7987500000000001,,,,
