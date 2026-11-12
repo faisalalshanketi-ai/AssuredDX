@@ -1,0 +1,51 @@
+{
+ "k": 10,
+ "alerts_per_family": 120,
+ "adaptive_alerts_per_family": 50,
+ "eps": [
+  0.01,
+  0.03,
+  0.1,
+  0.3,
+  1.0
+ ],
+ "budget": 1000,
+ "restarts": 5,
+ "batch": 20,
+ "p_local": 0.8,
+ "step_frac": 0.3,
+ "sigmas": [
+  0.03,
+  0.1,
+  0.3
+ ],
+ "n_train_expl": 256,
+ "n_cert": 1000,
+ "n_sweep": [
+  100,
+  1000,
+  10000
+ ],
+ "n_sweep_alerts": 140,
+ "n_attack": 128,
+ "alpha": 0.001,
+ "bank_per_stratum": 50000,
+ "diag_train_per_family": 600,
+ "diag_val_per_family": 200,
+ "fp_train_attacks": 300,
+ "fp_attack_eps": 0.3,
+ "fp_frr": 0.01,
+ "naive_alerts_per_family": 60,
+ "naive_n": 256,
+ "mass_weight": 0.1,
+ "bootstrap": 2000,
+ "seed": 7,
+ "base_dir": "<base_dir>",
+ "vote_alerts_per_family": 25,
+ "vote_eps": [
+  0.03,
+  0.1,
+  0.3,
+  1.0
+ ]
+}
