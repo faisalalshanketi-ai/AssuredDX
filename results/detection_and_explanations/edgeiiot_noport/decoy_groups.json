@@ -1,0 +1,30 @@
+{
+  "DDoS": [
+    "udp.time_delta",
+    "dns.qry.name.len",
+    "dns.retransmission",
+    "dns.retransmit_request",
+    "mqtt.len"
+  ],
+  "Injection": [
+    "tcp_opt_len",
+    "dns.qry.name.len",
+    "dns.retransmission",
+    "dns.retransmit_request",
+    "mqtt.len"
+  ],
+  "Malware": [
+    "tcp_opt_len",
+    "tcp.len",
+    "dns.qry.name.len",
+    "dns.retransmission",
+    "dns.retransmit_request"
+  ],
+  "Scanning": [
+    "tcp.len",
+    "http.content_length",
+    "dns.qry.name.len",
+    "dns.retransmission",
+    "dns.retransmit_request"
+  ]
+}

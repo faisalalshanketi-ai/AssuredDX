@@ -1,0 +1,51 @@
+{
+  "BruteForce": [
+    "fin_count",
+    "Std",
+    "Max",
+    "Time_To_Live",
+    "AVG"
+  ],
+  "DDoS": [
+    "ack_count",
+    "IAT",
+    "syn_count",
+    "Rate",
+    "Header_Length"
+  ],
+  "DoS": [
+    "ack_count",
+    "syn_count",
+    "IAT",
+    "Rate",
+    "rst_count"
+  ],
+  "Mirai": [
+    "Header_Length",
+    "IAT",
+    "AVG",
+    "Rate",
+    "Std"
+  ],
+  "Recon": [
+    "syn_count",
+    "rst_count",
+    "fin_count",
+    "Std",
+    "Time_To_Live"
+  ],
+  "Spoofing": [
+    "Min",
+    "Max",
+    "Time_To_Live",
+    "Rate",
+    "AVG"
+  ],
+  "Web": [
+    "fin_count",
+    "Std",
+    "Time_To_Live",
+    "Max",
+    "AVG"
+  ]
+}

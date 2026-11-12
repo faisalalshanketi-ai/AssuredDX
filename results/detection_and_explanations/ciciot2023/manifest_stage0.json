@@ -1,0 +1,1554 @@
+{
+  "dataset": "CICIoT2023",
+  "layout": "per-class",
+  "n_files": 309,
+  "files": [
+    {
+      "name": "CSV\\Backdoor_Malware\\Backdoor_Malware.pcap.csv",
+      "bytes": 664577
+    },
+    {
+      "name": "CSV\\Benign_Final\\BenignTraffic.pcap.csv",
+      "bytes": 75100977
+    },
+    {
+      "name": "CSV\\Benign_Final\\BenignTraffic1.pcap.csv",
+      "bytes": 61260813
+    },
+    {
+      "name": "CSV\\Benign_Final\\BenignTraffic2.pcap.csv",
+      "bytes": 64200745
+    },
+    {
+      "name": "CSV\\Benign_Final\\BenignTraffic3.pcap.csv",
+      "bytes": 26851364
+    },
+    {
+      "name": "CSV\\BrowserHijacking\\BrowserHijacking.pcap.csv",
+      "bytes": 1207500
+    },
+    {
+      "name": "CSV\\CommandInjection\\CommandInjection.pcap.csv",
+      "bytes": 1107913
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation.pcap.csv",
+      "bytes": 5530254
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation1.pcap.csv",
+      "bytes": 4944205
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation10.pcap.csv",
+      "bytes": 5015945
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation11.pcap.csv",
+      "bytes": 5008522
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation12.pcap.csv",
+      "bytes": 2099587
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation2.pcap.csv",
+      "bytes": 4976425
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation3.pcap.csv",
+      "bytes": 5035034
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation4.pcap.csv",
+      "bytes": 4946356
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation5.pcap.csv",
+      "bytes": 4801947
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation6.pcap.csv",
+      "bytes": 4852412
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation7.pcap.csv",
+      "bytes": 4898374
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation8.pcap.csv",
+      "bytes": 4933846
+    },
+    {
+      "name": "CSV\\DDoS-ACK_Fragmentation\\DDoS-ACK_Fragmentation9.pcap.csv",
+      "bytes": 5734938
+    },
+    {
+      "name": "CSV\\DDoS-HTTP_Flood\\DDoS-HTTP_Flood-.pcap.csv",
+      "bytes": 6449785
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood.pcap.csv",
+      "bytes": 49629237
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood1.pcap.csv",
+      "bytes": 49499929
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood10.pcap.csv",
+      "bytes": 49550267
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood11.pcap.csv",
+      "bytes": 49550761
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood12.pcap.csv",
+      "bytes": 49442023
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood13.pcap.csv",
+      "bytes": 49140896
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood14.pcap.csv",
+      "bytes": 49230229
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood15.pcap.csv",
+      "bytes": 48726461
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood16.pcap.csv",
+      "bytes": 46172166
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood17.pcap.csv",
+      "bytes": 49070655
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood18.pcap.csv",
+      "bytes": 49173006
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood19.pcap.csv",
+      "bytes": 49463881
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood2.pcap.csv",
+      "bytes": 48959577
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood20.pcap.csv",
+      "bytes": 48926723
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood21.pcap.csv",
+      "bytes": 49445804
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood22.pcap.csv",
+      "bytes": 48942961
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood23.pcap.csv",
+      "bytes": 49153368
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood24.pcap.csv",
+      "bytes": 48897469
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood25.pcap.csv",
+      "bytes": 49439635
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood26.pcap.csv",
+      "bytes": 49230142
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood3.pcap.csv",
+      "bytes": 48556977
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood4.pcap.csv",
+      "bytes": 49808959
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood5.pcap.csv",
+      "bytes": 49339745
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood6.pcap.csv",
+      "bytes": 49112212
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood7.pcap.csv",
+      "bytes": 48900510
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood8.pcap.csv",
+      "bytes": 49495438
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Flood\\DDoS-ICMP_Flood9.pcap.csv",
+      "bytes": 49409485
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation.pcap.csv",
+      "bytes": 4576351
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation1.pcap.csv",
+      "bytes": 4982951
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation10.pcap.csv",
+      "bytes": 5018987
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation11.pcap.csv",
+      "bytes": 4955238
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation12.pcap.csv",
+      "bytes": 5065621
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation13.pcap.csv",
+      "bytes": 4969932
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation14.pcap.csv",
+      "bytes": 4997768
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation15.pcap.csv",
+      "bytes": 4858713
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation16.pcap.csv",
+      "bytes": 5077350
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation17.pcap.csv",
+      "bytes": 5593541
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation18.pcap.csv",
+      "bytes": 4940788
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation19.pcap.csv",
+      "bytes": 4362588
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation2.pcap.csv",
+      "bytes": 4982201
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation3.pcap.csv",
+      "bytes": 5183591
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation4.pcap.csv",
+      "bytes": 5233326
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation5.pcap.csv",
+      "bytes": 4929636
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation6.pcap.csv",
+      "bytes": 4897727
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation7.pcap.csv",
+      "bytes": 4998932
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation8.pcap.csv",
+      "bytes": 4937216
+    },
+    {
+      "name": "CSV\\DDoS-ICMP_Fragmentation\\DDoS-ICMP_Fragmentation9.pcap.csv",
+      "bytes": 5153022
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood.pcap.csv",
+      "bytes": 50374556
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood1.pcap.csv",
+      "bytes": 50173173
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood10.pcap.csv",
+      "bytes": 50122091
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood11.pcap.csv",
+      "bytes": 50168393
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood12.pcap.csv",
+      "bytes": 50065205
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood13.pcap.csv",
+      "bytes": 50212437
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood14.pcap.csv",
+      "bytes": 50253946
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood15.pcap.csv",
+      "bytes": 14866707
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood2.pcap.csv",
+      "bytes": 50666840
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood3.pcap.csv",
+      "bytes": 50567791
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood4.pcap.csv",
+      "bytes": 50498677
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood5.pcap.csv",
+      "bytes": 50544736
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood6.pcap.csv",
+      "bytes": 50555376
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood7.pcap.csv",
+      "bytes": 50450917
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood8.pcap.csv",
+      "bytes": 50439194
+    },
+    {
+      "name": "CSV\\DDoS-PSHACK_FLOOD\\DDoS-PSHACK_Flood9.pcap.csv",
+      "bytes": 49597219
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood.pcap.csv",
+      "bytes": 50843571
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood1.pcap.csv",
+      "bytes": 50257848
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood10.pcap.csv",
+      "bytes": 50812193
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood11.pcap.csv",
+      "bytes": 50492558
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood12.pcap.csv",
+      "bytes": 50536714
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood13.pcap.csv",
+      "bytes": 50720180
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood14.pcap.csv",
+      "bytes": 50771519
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood15.pcap.csv",
+      "bytes": 11732085
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood2.pcap.csv",
+      "bytes": 50519470
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood3.pcap.csv",
+      "bytes": 50543359
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood4.pcap.csv",
+      "bytes": 50870304
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood5.pcap.csv",
+      "bytes": 50999323
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood6.pcap.csv",
+      "bytes": 46125154
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood7.pcap.csv",
+      "bytes": 50532403
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood8.pcap.csv",
+      "bytes": 50612474
+    },
+    {
+      "name": "CSV\\DDoS-RSTFINFLOOD\\DDoS-RSTFINFlood9.pcap.csv",
+      "bytes": 50632289
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood.pcap.csv",
+      "bytes": 51108638
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood1.pcap.csv",
+      "bytes": 51023102
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood10.pcap.csv",
+      "bytes": 50881658
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood11.pcap.csv",
+      "bytes": 50551155
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood12.pcap.csv",
+      "bytes": 50926355
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood13.pcap.csv",
+      "bytes": 50869969
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood14.pcap.csv",
+      "bytes": 50380963
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood15.pcap.csv",
+      "bytes": 26009693
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood2.pcap.csv",
+      "bytes": 50841893
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood3.pcap.csv",
+      "bytes": 50687752
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood4.pcap.csv",
+      "bytes": 38728063
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood5.pcap.csv",
+      "bytes": 50530644
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood6.pcap.csv",
+      "bytes": 50719359
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood7.pcap.csv",
+      "bytes": 50413362
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood8.pcap.csv",
+      "bytes": 50031206
+    },
+    {
+      "name": "CSV\\DDoS-SYN_Flood\\DDoS-SYN_Flood9.pcap.csv",
+      "bytes": 50601708
+    },
+    {
+      "name": "CSV\\DDoS-SlowLoris\\DDoS-SlowLoris.pcap.csv",
+      "bytes": 5224322
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood.pcap.csv",
+      "bytes": 50046999
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood1.pcap.csv",
+      "bytes": 50266850
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood10.pcap.csv",
+      "bytes": 49796886
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood11.pcap.csv",
+      "bytes": 50313881
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood12.pcap.csv",
+      "bytes": 50266780
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood13.pcap.csv",
+      "bytes": 23850442
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood2.pcap.csv",
+      "bytes": 50276958
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood3.pcap.csv",
+      "bytes": 50253134
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood4.pcap.csv",
+      "bytes": 50363699
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood5.pcap.csv",
+      "bytes": 49573207
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood6.pcap.csv",
+      "bytes": 49205678
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood7.pcap.csv",
+      "bytes": 50414449
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood8.pcap.csv",
+      "bytes": 50410503
+    },
+    {
+      "name": "CSV\\DDoS-SynonymousIP_Flood\\DDoS-SynonymousIP_Flood9.pcap.csv",
+      "bytes": 49595474
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood.pcap.csv",
+      "bytes": 49564789
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood1.pcap.csv",
+      "bytes": 50150587
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood10.pcap.csv",
+      "bytes": 49634604
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood11.pcap.csv",
+      "bytes": 48625905
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood12.pcap.csv",
+      "bytes": 50205770
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood13.pcap.csv",
+      "bytes": 50190203
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood14.pcap.csv",
+      "bytes": 49762919
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood15.pcap.csv",
+      "bytes": 50166316
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood16.pcap.csv",
+      "bytes": 50291457
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood17.pcap.csv",
+      "bytes": 17415966
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood2.pcap.csv",
+      "bytes": 49969827
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood3.pcap.csv",
+      "bytes": 50156811
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood4.pcap.csv",
+      "bytes": 37236055
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood5.pcap.csv",
+      "bytes": 40739425
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood6.pcap.csv",
+      "bytes": 49392507
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood7.pcap.csv",
+      "bytes": 50308010
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood8.pcap.csv",
+      "bytes": 50166032
+    },
+    {
+      "name": "CSV\\DDoS-TCP_Flood\\DDoS-TCP_Flood9.pcap.csv",
+      "bytes": 49858930
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood.pcap.csv",
+      "bytes": 50078606
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood1.pcap.csv",
+      "bytes": 50050717
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood10.pcap.csv",
+      "bytes": 49931523
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood11.pcap.csv",
+      "bytes": 50330292
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood12.pcap.csv",
+      "bytes": 50059443
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood13.pcap.csv",
+      "bytes": 50174989
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood14.pcap.csv",
+      "bytes": 50665381
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood15.pcap.csv",
+      "bytes": 50126206
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood16.pcap.csv",
+      "bytes": 50246975
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood17.pcap.csv",
+      "bytes": 50005983
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood18.pcap.csv",
+      "bytes": 50262306
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood19.pcap.csv",
+      "bytes": 50157093
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood2.pcap.csv",
+      "bytes": 50157205
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood20.pcap.csv",
+      "bytes": 14617665
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood3.pcap.csv",
+      "bytes": 50333116
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood4.pcap.csv",
+      "bytes": 49939911
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood5.pcap.csv",
+      "bytes": 51930721
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood6.pcap.csv",
+      "bytes": 51470254
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood7.pcap.csv",
+      "bytes": 51907641
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood8.pcap.csv",
+      "bytes": 52049756
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Flood\\DDoS-UDP_Flood9.pcap.csv",
+      "bytes": 50495757
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation.pcap.csv",
+      "bytes": 4955669
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation1.pcap.csv",
+      "bytes": 4940834
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation10.pcap.csv",
+      "bytes": 4897636
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation11.pcap.csv",
+      "bytes": 5027497
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation12.pcap.csv",
+      "bytes": 3422745
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation2.pcap.csv",
+      "bytes": 4890806
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation3.pcap.csv",
+      "bytes": 5115153
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation4.pcap.csv",
+      "bytes": 4987718
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation5.pcap.csv",
+      "bytes": 5110522
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation6.pcap.csv",
+      "bytes": 4865869
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation7.pcap.csv",
+      "bytes": 4980427
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation8.pcap.csv",
+      "bytes": 4963244
+    },
+    {
+      "name": "CSV\\DDoS-UDP_Fragmentation\\DDoS-UDP_Fragmentation9.pcap.csv",
+      "bytes": 4825124
+    },
+    {
+      "name": "CSV\\DNS_Spoofing\\DNS_Spoofing.pcap.csv",
+      "bytes": 36833637
+    },
+    {
+      "name": "CSV\\DictionaryBruteForce\\DictionaryBruteForce.pcap.csv",
+      "bytes": 2704325
+    },
+    {
+      "name": "CSV\\DoS-HTTP_Flood\\DoS-HTTP_Flood.pcap.csv",
+      "bytes": 9039877
+    },
+    {
+      "name": "CSV\\DoS-HTTP_Flood\\DoS-HTTP_Flood1.pcap.csv",
+      "bytes": 6883853
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood.pcap.csv",
+      "bytes": 50831729
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood1.pcap.csv",
+      "bytes": 50601684
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood2.pcap.csv",
+      "bytes": 48877980
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood3.pcap.csv",
+      "bytes": 49424756
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood4.pcap.csv",
+      "bytes": 49736589
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood5.pcap.csv",
+      "bytes": 50831938
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood6.pcap.csv",
+      "bytes": 50423128
+    },
+    {
+      "name": "CSV\\DoS-SYN_Flood\\DoS-SYN_Flood7.pcap.csv",
+      "bytes": 39878075
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood.pcap.csv",
+      "bytes": 48955460
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood1.pcap.csv",
+      "bytes": 47424362
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood10.pcap.csv",
+      "bytes": 15663327
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood2.pcap.csv",
+      "bytes": 50081317
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood3.pcap.csv",
+      "bytes": 50617348
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood4.pcap.csv",
+      "bytes": 50279393
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood5.pcap.csv",
+      "bytes": 50147553
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood6.pcap.csv",
+      "bytes": 49340641
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood7.pcap.csv",
+      "bytes": 49816215
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood8.pcap.csv",
+      "bytes": 48951443
+    },
+    {
+      "name": "CSV\\DoS-TCP_Flood\\DoS-TCP_Flood9.pcap.csv",
+      "bytes": 44070211
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood.pcap.csv",
+      "bytes": 32359559
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood1.pcap.csv",
+      "bytes": 27576686
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood10.pcap.csv",
+      "bytes": 51347895
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood11.pcap.csv",
+      "bytes": 50201726
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood12.pcap.csv",
+      "bytes": 48098197
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood13.pcap.csv",
+      "bytes": 51656437
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood14.pcap.csv",
+      "bytes": 49019219
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood15.pcap.csv",
+      "bytes": 52351131
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood16.pcap.csv",
+      "bytes": 34512977
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood2.pcap.csv",
+      "bytes": 20474692
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood3.pcap.csv",
+      "bytes": 21532413
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood4.pcap.csv",
+      "bytes": 26190903
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood5.pcap.csv",
+      "bytes": 22634035
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood6.pcap.csv",
+      "bytes": 23871639
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood7.pcap.csv",
+      "bytes": 35696059
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood8.pcap.csv",
+      "bytes": 32624109
+    },
+    {
+      "name": "CSV\\DoS-UDP_Flood\\DoS-UDP_Flood9.pcap.csv",
+      "bytes": 25251429
+    },
+    {
+      "name": "CSV\\MITM-ArpSpoofing\\MITM-ArpSpoofing.pcap.csv",
+      "bytes": 50593720
+    },
+    {
+      "name": "CSV\\MITM-ArpSpoofing\\MITM-ArpSpoofing1.pcap.csv",
+      "bytes": 12312129
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood.pcap.csv",
+      "bytes": 6743677
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood1.pcap.csv",
+      "bytes": 6899287
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood10.pcap.csv",
+      "bytes": 7106174
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood11.pcap.csv",
+      "bytes": 7097244
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood12.pcap.csv",
+      "bytes": 7039185
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood13.pcap.csv",
+      "bytes": 7138032
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood14.pcap.csv",
+      "bytes": 6772502
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood15.pcap.csv",
+      "bytes": 6899264
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood16.pcap.csv",
+      "bytes": 6861619
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood17.pcap.csv",
+      "bytes": 6796981
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood18.pcap.csv",
+      "bytes": 6801605
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood19.pcap.csv",
+      "bytes": 6909182
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood2.pcap.csv",
+      "bytes": 6808690
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood20.pcap.csv",
+      "bytes": 6953239
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood21.pcap.csv",
+      "bytes": 7086127
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood22.pcap.csv",
+      "bytes": 6991213
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood23.pcap.csv",
+      "bytes": 6952155
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood24.pcap.csv",
+      "bytes": 6753823
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood25.pcap.csv",
+      "bytes": 6800333
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood26.pcap.csv",
+      "bytes": 7018295
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood27.pcap.csv",
+      "bytes": 6942289
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood28.pcap.csv",
+      "bytes": 6916207
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood3.pcap.csv",
+      "bytes": 6804724
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood4.pcap.csv",
+      "bytes": 6851691
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood5.pcap.csv",
+      "bytes": 6817261
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood6.pcap.csv",
+      "bytes": 6888069
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood7.pcap.csv",
+      "bytes": 6889051
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood8.pcap.csv",
+      "bytes": 6865224
+    },
+    {
+      "name": "CSV\\Mirai-greeth_flood\\Mirai-greeth_flood9.pcap.csv",
+      "bytes": 7251251
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood.pcap.csv",
+      "bytes": 7247302
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood1.pcap.csv",
+      "bytes": 7176408
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood10.pcap.csv",
+      "bytes": 7135338
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood11.pcap.csv",
+      "bytes": 7012998
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood12.pcap.csv",
+      "bytes": 7134535
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood13.pcap.csv",
+      "bytes": 7122045
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood14.pcap.csv",
+      "bytes": 7213409
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood15.pcap.csv",
+      "bytes": 7138745
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood16.pcap.csv",
+      "bytes": 6908251
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood17.pcap.csv",
+      "bytes": 7416420
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood18.pcap.csv",
+      "bytes": 7045526
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood19.pcap.csv",
+      "bytes": 7154894
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood2.pcap.csv",
+      "bytes": 6985338
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood20.pcap.csv",
+      "bytes": 7186283
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood21.pcap.csv",
+      "bytes": 2422081
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood3.pcap.csv",
+      "bytes": 7183446
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood4.pcap.csv",
+      "bytes": 7392607
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood5.pcap.csv",
+      "bytes": 7312382
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood6.pcap.csv",
+      "bytes": 7539798
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood7.pcap.csv",
+      "bytes": 7369571
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood8.pcap.csv",
+      "bytes": 7430602
+    },
+    {
+      "name": "CSV\\Mirai-greip_flood\\Mirai-greip_flood9.pcap.csv",
+      "bytes": 7131083
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain.pcap.csv",
+      "bytes": 7371385
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain1.pcap.csv",
+      "bytes": 7393619
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain10.pcap.csv",
+      "bytes": 7389468
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain11.pcap.csv",
+      "bytes": 7135480
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain12.pcap.csv",
+      "bytes": 7164413
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain13.pcap.csv",
+      "bytes": 7281461
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain14.pcap.csv",
+      "bytes": 7290682
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain15.pcap.csv",
+      "bytes": 7232466
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain16.pcap.csv",
+      "bytes": 7246882
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain17.pcap.csv",
+      "bytes": 7320218
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain18.pcap.csv",
+      "bytes": 7235592
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain19.pcap.csv",
+      "bytes": 7280257
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain2.pcap.csv",
+      "bytes": 7284688
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain20.pcap.csv",
+      "bytes": 7316309
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain21.pcap.csv",
+      "bytes": 7357220
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain22.pcap.csv",
+      "bytes": 7433323
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain23.pcap.csv",
+      "bytes": 7326904
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain24.pcap.csv",
+      "bytes": 2976645
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain3.pcap.csv",
+      "bytes": 7450169
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain4.pcap.csv",
+      "bytes": 7247149
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain5.pcap.csv",
+      "bytes": 7421005
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain6.pcap.csv",
+      "bytes": 7383877
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain7.pcap.csv",
+      "bytes": 7466803
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain8.pcap.csv",
+      "bytes": 7490189
+    },
+    {
+      "name": "CSV\\Mirai-udpplain\\Mirai-udpplain9.pcap.csv",
+      "bytes": 7602368
+    },
+    {
+      "name": "CSV\\Recon-HostDiscovery\\Recon-HostDiscovery.pcap.csv",
+      "bytes": 26360058
+    },
+    {
+      "name": "CSV\\Recon-OSScan\\Recon-OSScan.pcap.csv",
+      "bytes": 19880307
+    },
+    {
+      "name": "CSV\\Recon-PingSweep\\Recon-PingSweep.pcap.csv",
+      "bytes": 466700
+    },
+    {
+      "name": "CSV\\Recon-PortScan\\Recon-PortScan.pcap.csv",
+      "bytes": 16412654
+    },
+    {
+      "name": "CSV\\SqlInjection\\SqlInjection.pcap.csv",
+      "bytes": 1087316
+    },
+    {
+      "name": "CSV\\Uploading_Attack\\Uploading_Attack.pcap.csv",
+      "bytes": 260216
+    },
+    {
+      "name": "CSV\\VulnerabilityScan\\VulnerabilityScan.pcap.csv",
+      "bytes": 77235466
+    },
+    {
+      "name": "CSV\\XSS\\XSS.pcap.csv",
+      "bytes": 796883
+    }
+  ],
+  "source_label_counts": {
+    "Backdoor_Malware": 3218,
+    "BenignTraffic": 1098191,
+    "BrowserHijacking": 5859,
+    "CommandInjection": 5409,
+    "DDoS-ACK_Fragmentation": 285075,
+    "DDoS-HTTP_Flood": 28790,
+    "DDoS-ICMP_Flood": 7200501,
+    "DDoS-ICMP_Fragmentation": 452490,
+    "DDoS-PSHACK_Flood": 4094772,
+    "DDoS-RSTFINFlood": 4045279,
+    "DDoS-SYN_Flood": 4059179,
+    "DDoS-SlowLoris": 23426,
+    "DDoS-SynonymousIP_Flood": 3598133,
+    "DDoS-TCP_Flood": 4497649,
+    "DDoS-UDP_Flood": 5412231,
+    "DDoS-UDP_Fragmentation": 286925,
+    "DNS_Spoofing": 178898,
+    "DictionaryBruteForce": 13064,
+    "DoS-HTTP_Flood": 71861,
+    "DoS-SYN_Flood": 2028836,
+    "DoS-TCP_Flood": 2671430,
+    "DoS-UDP_Flood": 3072993,
+    "MITM-ArpSpoofing": 307560,
+    "Mirai-greeth_flood": 991834,
+    "Mirai-greip_flood": 751646,
+    "Mirai-udpplain": 890574,
+    "Recon-HostDiscovery": 134378,
+    "Recon-OSScan": 98259,
+    "Recon-PingSweep": 2262,
+    "Recon-PortScan": 82284,
+    "SqlInjection": 5245,
+    "Uploading_Attack": 1252,
+    "VulnerabilityScan": 373351,
+    "XSS": 3846
+  },
+  "kept_label_counts": {
+    "BenignTraffic": 200000,
+    "DoS-UDP_Flood": 40000,
+    "DoS-HTTP_Flood": 40000,
+    "DoS-SYN_Flood": 40000,
+    "DoS-TCP_Flood": 40000,
+    "Mirai-greip_flood": 40000,
+    "Mirai-greeth_flood": 40000,
+    "Mirai-udpplain": 40000,
+    "MITM-ArpSpoofing": 40000,
+    "Recon-PortScan": 30000,
+    "Recon-HostDiscovery": 30000,
+    "Recon-OSScan": 29999,
+    "VulnerabilityScan": 29999,
+    "DNS_Spoofing": 29999,
+    "DDoS-RSTFINFlood": 17802,
+    "DDoS-SYN_Flood": 17777,
+    "DDoS-UDP_Fragmentation": 17776,
+    "DDoS-PSHACK_Flood": 17763,
+    "DDoS-SynonymousIP_Flood": 17712,
+    "DDoS-ACK_Fragmentation": 17694,
+    "DDoS-ICMP_Flood": 17650,
+    "DDoS-UDP_Flood": 17632,
+    "DDoS-TCP_Flood": 17572,
+    "DDoS-ICMP_Fragmentation": 17559,
+    "DictionaryBruteForce": 13064,
+    "DDoS-HTTP_Flood": 12737,
+    "DDoS-SlowLoris": 10326,
+    "BrowserHijacking": 5859,
+    "CommandInjection": 5409,
+    "SqlInjection": 5244,
+    "XSS": 3846,
+    "Backdoor_Malware": 3218,
+    "Recon-PingSweep": 2262,
+    "Uploading_Attack": 1252
+  },
+  "kept_family_counts": {
+    "Benign": 200000,
+    "DDoS": 200000,
+    "DoS": 160000,
+    "Recon": 122260,
+    "Mirai": 120000,
+    "Spoofing": 69999,
+    "Web": 24828,
+    "BruteForce": 13064
+  },
+  "files_per_label": {
+    "Backdoor_Malware": 1,
+    "BenignTraffic": 4,
+    "BrowserHijacking": 1,
+    "CommandInjection": 1,
+    "DDoS-ACK_Fragmentation": 13,
+    "DDoS-HTTP_Flood": 1,
+    "DDoS-ICMP_Flood": 27,
+    "DDoS-ICMP_Fragmentation": 20,
+    "DDoS-PSHACK_Flood": 16,
+    "DDoS-RSTFINFlood": 16,
+    "DDoS-SYN_Flood": 16,
+    "DDoS-SlowLoris": 1,
+    "DDoS-SynonymousIP_Flood": 14,
+    "DDoS-TCP_Flood": 18,
+    "DDoS-UDP_Flood": 21,
+    "DDoS-UDP_Fragmentation": 13,
+    "DNS_Spoofing": 1,
+    "DictionaryBruteForce": 1,
+    "DoS-HTTP_Flood": 2,
+    "DoS-SYN_Flood": 8,
+    "DoS-TCP_Flood": 11,
+    "DoS-UDP_Flood": 17,
+    "MITM-ArpSpoofing": 2,
+    "Mirai-greeth_flood": 29,
+    "Mirai-greip_flood": 22,
+    "Mirai-udpplain": 25,
+    "Recon-HostDiscovery": 1,
+    "Recon-OSScan": 1,
+    "Recon-PingSweep": 1,
+    "Recon-PortScan": 1,
+    "SqlInjection": 1,
+    "Uploading_Attack": 1,
+    "VulnerabilityScan": 1,
+    "XSS": 1
+  },
+  "split_mode_per_label": {
+    "Backdoor_Malware": "row-level (1 file)",
+    "BenignTraffic": "file-level (4 files)",
+    "BrowserHijacking": "row-level (1 file)",
+    "CommandInjection": "row-level (1 file)",
+    "DDoS-ACK_Fragmentation": "file-level (13 files)",
+    "DDoS-HTTP_Flood": "row-level (1 file)",
+    "DDoS-ICMP_Flood": "file-level (27 files)",
+    "DDoS-ICMP_Fragmentation": "file-level (20 files)",
+    "DDoS-PSHACK_Flood": "file-level (16 files)",
+    "DDoS-RSTFINFlood": "file-level (16 files)",
+    "DDoS-SYN_Flood": "file-level (16 files)",
+    "DDoS-SlowLoris": "row-level (1 file)",
+    "DDoS-SynonymousIP_Flood": "file-level (14 files)",
+    "DDoS-TCP_Flood": "file-level (18 files)",
+    "DDoS-UDP_Flood": "file-level (21 files)",
+    "DDoS-UDP_Fragmentation": "file-level (13 files)",
+    "DNS_Spoofing": "row-level (1 file)",
+    "DictionaryBruteForce": "row-level (1 file)",
+    "DoS-HTTP_Flood": "row-level (2 files)",
+    "DoS-SYN_Flood": "file-level (8 files)",
+    "DoS-TCP_Flood": "file-level (11 files)",
+    "DoS-UDP_Flood": "file-level (17 files)",
+    "MITM-ArpSpoofing": "row-level (2 files)",
+    "Mirai-greeth_flood": "file-level (29 files)",
+    "Mirai-greip_flood": "file-level (22 files)",
+    "Mirai-udpplain": "file-level (25 files)",
+    "Recon-HostDiscovery": "row-level (1 file)",
+    "Recon-OSScan": "row-level (1 file)",
+    "Recon-PingSweep": "row-level (1 file)",
+    "Recon-PortScan": "row-level (1 file)",
+    "SqlInjection": "row-level (1 file)",
+    "Uploading_Attack": "row-level (1 file)",
+    "VulnerabilityScan": "row-level (1 file)",
+    "XSS": "row-level (1 file)"
+  },
+  "split_sizes": {
+    "train": 511482,
+    "val": 193007,
+    "test": 205662
+  },
+  "split_family_counts": {
+    "train": {
+      "DDoS": 114120,
+      "Benign": 99939,
+      "DoS": 89789,
+      "Recon": 73355,
+      "Mirai": 69548,
+      "Spoofing": 41999,
+      "Web": 14894,
+      "BruteForce": 7838
+    },
+    "val": {
+      "Benign": 50001,
+      "DDoS": 38992,
+      "DoS": 32266,
+      "Mirai": 25717,
+      "Recon": 24452,
+      "Spoofing": 14000,
+      "Web": 4966,
+      "BruteForce": 2613
+    },
+    "test": {
+      "Benign": 50060,
+      "DDoS": 46888,
+      "DoS": 37945,
+      "Mirai": 24735,
+      "Recon": 24453,
+      "Spoofing": 14000,
+      "Web": 4968,
+      "BruteForce": 2613
+    }
+  },
+  "split_label_counts": {
+    "train": {
+      "BenignTraffic": 99939,
+      "DoS-HTTP_Flood": 24000,
+      "MITM-ArpSpoofing": 24000,
+      "Mirai-udpplain": 23712,
+      "DoS-UDP_Flood": 23570,
+      "Mirai-greeth_flood": 23405,
+      "Mirai-greip_flood": 22431,
+      "DoS-TCP_Flood": 21967,
+      "DoS-SYN_Flood": 20252,
+      "Recon-PortScan": 18000,
+      "Recon-HostDiscovery": 18000,
+      "Recon-OSScan": 17999,
+      "VulnerabilityScan": 17999,
+      "DNS_Spoofing": 17999,
+      "DDoS-ICMP_Fragmentation": 10504,
+      "DDoS-ICMP_Flood": 10488,
+      "DDoS-ACK_Fragmentation": 10109,
+      "DDoS-PSHACK_Flood": 10087,
+      "DDoS-SynonymousIP_Flood": 10063,
+      "DDoS-RSTFINFlood": 10033,
+      "DDoS-UDP_Flood": 9977,
+      "DDoS-SYN_Flood": 9912,
+      "DDoS-TCP_Flood": 9709,
+      "DDoS-UDP_Fragmentation": 9401,
+      "DictionaryBruteForce": 7838,
+      "DDoS-HTTP_Flood": 7642,
+      "DDoS-SlowLoris": 6195,
+      "BrowserHijacking": 3515,
+      "CommandInjection": 3245,
+      "SqlInjection": 3146,
+      "XSS": 2307,
+      "Backdoor_Malware": 1930,
+      "Recon-PingSweep": 1357,
+      "Uploading_Attack": 751
+    },
+    "val": {
+      "BenignTraffic": 50001,
+      "DoS-SYN_Flood": 9881,
+      "Mirai-greip_flood": 9341,
+      "Mirai-greeth_flood": 8322,
+      "Mirai-udpplain": 8054,
+      "DoS-HTTP_Flood": 8000,
+      "MITM-ArpSpoofing": 8000,
+      "DoS-TCP_Flood": 7308,
+      "DoS-UDP_Flood": 7077,
+      "Recon-PortScan": 6000,
+      "Recon-OSScan": 6000,
+      "VulnerabilityScan": 6000,
+      "Recon-HostDiscovery": 6000,
+      "DNS_Spoofing": 6000,
+      "DDoS-UDP_Fragmentation": 4214,
+      "DDoS-TCP_Flood": 3948,
+      "DDoS-SynonymousIP_Flood": 3847,
+      "DDoS-UDP_Flood": 3357,
+      "DDoS-SYN_Flood": 3314,
+      "DDoS-RSTFINFlood": 3302,
+      "DDoS-ACK_Fragmentation": 3285,
+      "DDoS-PSHACK_Flood": 3217,
+      "DDoS-ICMP_Flood": 3203,
+      "DDoS-ICMP_Fragmentation": 2693,
+      "DictionaryBruteForce": 2613,
+      "DDoS-HTTP_Flood": 2547,
+      "DDoS-SlowLoris": 2065,
+      "BrowserHijacking": 1172,
+      "CommandInjection": 1082,
+      "SqlInjection": 1049,
+      "XSS": 769,
+      "Backdoor_Malware": 644,
+      "Recon-PingSweep": 452,
+      "Uploading_Attack": 250
+    },
+    "test": {
+      "BenignTraffic": 50060,
+      "DoS-TCP_Flood": 10725,
+      "DoS-SYN_Flood": 9867,
+      "DoS-UDP_Flood": 9353,
+      "Mirai-greeth_flood": 8273,
+      "Mirai-udpplain": 8234,
+      "Mirai-greip_flood": 8228,
+      "DoS-HTTP_Flood": 8000,
+      "MITM-ArpSpoofing": 8000,
+      "Recon-PortScan": 6000,
+      "Recon-OSScan": 6000,
+      "Recon-HostDiscovery": 6000,
+      "VulnerabilityScan": 6000,
+      "DNS_Spoofing": 6000,
+      "DDoS-SYN_Flood": 4551,
+      "DDoS-RSTFINFlood": 4467,
+      "DDoS-PSHACK_Flood": 4459,
+      "DDoS-ICMP_Fragmentation": 4362,
+      "DDoS-ACK_Fragmentation": 4300,
+      "DDoS-UDP_Flood": 4298,
+      "DDoS-UDP_Fragmentation": 4161,
+      "DDoS-ICMP_Flood": 3959,
+      "DDoS-TCP_Flood": 3915,
+      "DDoS-SynonymousIP_Flood": 3802,
+      "DictionaryBruteForce": 2613,
+      "DDoS-HTTP_Flood": 2548,
+      "DDoS-SlowLoris": 2066,
+      "BrowserHijacking": 1172,
+      "CommandInjection": 1082,
+      "SqlInjection": 1049,
+      "XSS": 770,
+      "Backdoor_Malware": 644,
+      "Recon-PingSweep": 453,
+      "Uploading_Attack": 251
+    }
+  },
+  "seed": 42,
+  "max_rows_per_file": 30000,
+  "cap_per_label": 40000,
+  "cap_per_family": 200000,
+  "natural_weight_note": "weights restore the label mix of the files read; they match the full-dataset mix only if every file of every label was downloaded",
+  "versions": {
+    "python": "3.11.16",
+    "pandas": "3.0.6",
+    "numpy": "2.4.6"
+  }
+}
