@@ -1,0 +1,2 @@
+projected sigma,accuracy,AssureDx accuracy,nominally certified,samples violating constraints,samples identical to an observed flow,samples flipping the detector,median s per certificate
+0.03,0.4845,0.5643,0.6845,0.0,0.0,0.0475,0.567

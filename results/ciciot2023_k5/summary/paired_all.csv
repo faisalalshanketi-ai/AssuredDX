@@ -1,0 +1,5 @@
+eps,n,capture_groups,no defence,"fingerprint, supervised","fingerprint, Sharma et al.",consensus,unsmoothed (strongest),AssureDx (strongest),AssureDx certified diagnoses,AssureDx (strongest) - no defence,"AssureDx (strongest) - fingerprint, Sharma et al.",AssureDx (strongest) - unsmoothed (strongest),"AssureDx certified diagnoses - fingerprint, Sharma et al.",AssureDx certified diagnoses - unsmoothed (strongest),provably immune
+0.03,85,42,0.153,0.141,0.153,0.247,0.012,0.012,0.0,"-0.141 [-0.239, -0.058]","-0.141 [-0.253, -0.054]","0.000 [-0.041, 0.030]","-0.153 [-0.257, -0.070]","-0.012 [-0.045, 0.000]",0.906
+0.1,85,42,0.282,0.271,0.224,0.353,0.082,0.059,0.035,"-0.224 [-0.314, -0.141]","-0.165 [-0.262, -0.076]","-0.024 [-0.064, 0.000]","-0.188 [-0.293, -0.097]","-0.047 [-0.108, -0.010]",0.0
+0.3,85,42,0.482,0.506,0.471,0.659,0.282,0.224,0.188,"-0.259 [-0.366, -0.151]","-0.247 [-0.349, -0.131]","-0.059 [-0.109, -0.012]","-0.282 [-0.385, -0.169]","-0.094 [-0.154, -0.038]",0.0
+1.0,85,42,0.8,0.788,0.776,0.859,0.529,0.459,0.447,"-0.341 [-0.471, -0.228]","-0.318 [-0.458, -0.200]","-0.071 [-0.136, -0.015]","-0.329 [-0.472, -0.211]","-0.082 [-0.156, -0.026]",0.0
